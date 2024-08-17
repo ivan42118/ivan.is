@@ -4168,15 +4168,15 @@
       Ze = n.n(Re);
     a["a"].use(G["a"]);
     var Xe = "ivan.is",
-      Qe = "", //tadinya https://iuri.is
+      Qe = "https://ivan42118.github.io/ivan.is.github.io/", //tadinya https://iuri.is
       Ue =
         "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
       Je = new G["a"]({
         mode: "history",
-        base: "/",
+        base: "https://ivan42118.github.io/ivan.is.github.io/",
         routes: [
           {
-            path: "/",
+            path: "https://ivan42118.github.io/ivan.is.github.io/",
             name: ".is()",
             component: Ye,
             meta: {
