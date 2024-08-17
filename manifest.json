@@ -6,8 +6,8 @@
     "background_color": "#0e1212",
     "display": "standalone",
     "orientation": "portrait",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "https://ivan42118.github.io/ivan.is.github.io/",
+    "start_url": "https://ivan42118.github.io/ivan.is.github.io/",
     "icons": [
       {
         "src": "/android-chrome-192x192.png",
