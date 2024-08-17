@@ -4194,11 +4194,7 @@
             },
           },
           {
-<<<<<<< HEAD
             path: "/about",
-=======
-            path: "/",
->>>>>>> 2ab6562ec0b85f869ed179086222c08044f0c79b
             name: ".about()",
             component: function () {
               return n.e("chunk-0294ec15").then(n.bind(null, "f820"));
