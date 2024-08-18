@@ -2450,7 +2450,7 @@
                 e(
                   "TitleFunction",
                   { attrs: { subtitle: "background.bmp" } },
-                  t._l(["Art", "Philosophy", "Games"], function (n) {
+                  t._l(["Designing", "Programming", "Learning"], function (n) {
                     return e("span", { key: n, staticClass: "line" }, [
                       e("span", { staticClass: "params" }, [t._v("${")]),
                       t._v(t._s(n)),
@@ -2491,7 +2491,7 @@
                 e("TextBlock", [
                   e("p", { staticClass: "-purple" }, [t._v("Muhammad Ivan Setiawan")]),
                   e("p", { staticClass: "-gray" }, [
-                    t._v("Creative frontend developer"),
+                    t._v("Creative Frontend Developer"),
                   ]),
                 ]),
               ],
