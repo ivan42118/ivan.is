@@ -4173,7 +4173,7 @@
         "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
       Je = new G["a"]({
         mode: "history",
-        base: "ivan.is/",
+        base: "/ivan.is/",
         routes: [
           {
             path: "/",
@@ -4194,7 +4194,7 @@
             },
           },
           {
-            path: "https://ivan42118.github.io/ivan.is/about/",
+            path: "/about",
             name: ".about()",
             component: function () {
               return n.e("chunk-0294ec15").then(n.bind(null, "f820"));
