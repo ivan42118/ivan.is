@@ -2526,8 +2526,8 @@
               "TitleSection",
               { attrs: { scene: "bizTitle" } },
               [
-                e("TitleFunction", { attrs: { params: "2011,2019" } }, [
-                  t._v("biz"),
+                e("TitleFunction", { attrs: { params: "2024" } }, [
+                  t._v("pusatdata.id"),
                 ]),
               ],
               1
@@ -2567,9 +2567,9 @@
               [
                 e("TextBlock", [
                   e("p", { staticClass: "-big" }, [
-                    t._v("\n        From Aug 2024 till now I was\n        "),
+                    t._v("\n        From 2024 I was\n        "),
                     e("strong", { staticClass: "-purple" }, [
-                      t._v("Head of Frontend"),
+                      t._v("Frontend Dev"),
                     ]),
                     t._v("\n        @\n        "),
                     e(
@@ -2587,7 +2587,7 @@
                   ]),
                   e("p", [
                     t._v(
-                      "\n        We are a leading IT solutions provider specializing in the installation and sales of CCTV systems, networking, computers, computer labs, PABX systems, maintenance services, and office/home needs. Our extensive client base includes private companies, government institutions, and individual customers, showcasing our expertise and commitment to delivering high-quality IT services.\n        use of Magento.\n      "
+                      "\n        We are a leading IT solutions provider specializing in the installation and sales of CCTV systems, networking, computers, computer labs, PABX systems, maintenance services, and office/home needs. Our extensive client base includes private companies, government institutions, and individual customers, showcasing our expertise and commitment to delivering high-quality IT services.\n      "
                     ),
                   ]),
                 ]),
@@ -2625,15 +2625,15 @@
                     t._v("\n        pusatdata.id currently manage\n        "),
                     e("span", { staticClass: "-big" }, [
                       e("span", { staticClass: "-purple" }, [
-                        t._v("over +50 Digital System Management"),
+                        t._v("+50 Digital System Management"),
                       ]),
                       t._v(
-                        ", including website development, CCTV installation,\n          computer lab setup, and system maintenance\n          "
+                        ", website development, CCTV,\n          computer lab setup, and maintenance\n          "
                       ),
                       e("span", { staticClass: "-purple" }, [
                         t._v("for both government and large corporations."),
                       ]),
-                      t._v(" daily.\n        "),
+                      t._v(" each month.\n        "),
                     ]),
                   ]),
                 ]),
@@ -3026,7 +3026,7 @@
                   ]),
                   e("p", [
                     t._v(
-                      "\n        Illustrating album arts, book covers, and billboards as a freelancer.\n        And designing websites, online magazines, and news portals at my first\n        web studio."
+                      "\n        Make a Cinematic video, design content, and Illustrating UMKM product as a freelancer.\n        And designing websites, build desktop app, and news portals at my first\n        web studio."
                     ),
                     e("br"),
                   ]),
@@ -3040,17 +3040,19 @@
               [
                 e("TextBlock", [
                   e("p", [
-                    t._v("\n        We've proudly fueled the starring"),
+                    t._v("\n        I have completed certification programs"),
                     e("br"),
                     t._v(
-                      "\n        of some big Brazilian names such as\n        "
+                      "\n        at prominent institutions such as\n        "
                     ),
                     e("span", { staticClass: "-big -purple" }, [
-                      e("em", [t._v("Porta dos Fundos")]),
+                      e("em", [t._v("Bangkit Academy")]),
                       t._v(", "),
-                      e("em", [t._v("Kibe Loco")]),
-                      t._v(", Fhits.tv,\n          "),
-                      e("em", [t._v("Galo Frito")]),
+                      e("em", [t._v("Google GoTo & Traveloka")]),
+                      t._v(", Ditjen KPAII,\n          "),
+                      e("em", [t._v("Kominfo")]),
+                      t._v(", "), // Add a comma before "BNSP"
+                       e("em", [t._v("BNSP")]), // Add the "BNSP" element
                     ]),
                     t._v("\n        among many others...\n      "),
                   ]),
@@ -3330,11 +3332,11 @@
                     ),
                     e("span", { staticClass: "-big -purple" }, [
                       t._v(
-                        "\n          3D models, matte painting and advertisements\n        "
+                        "\n          Mockup Product, Motion Graphic and advertisements\n        "
                       ),
                     ]),
                     t._v(
-                      "\n        for many brands, TV commercials, games...\n      "
+                      "\n        for many brands, Youtube, digital marketer...\n      "
                     ),
                   ]),
                 ]),
@@ -3351,7 +3353,7 @@
                     t._v("\n        And studying\n        "),
                     e("span", { staticClass: "-purple" }, [
                       t._v(
-                        "Philosophy, Japanese animation, fine arts and video games."
+                        "Design, Programming Language, fine arts and Motion Graphic."
                       ),
                     ]),
                   ]),
@@ -3421,9 +3423,9 @@
                     ]),
                     e("ul", { staticClass: "col" }, [
                       e("li", { staticClass: "ico" }, [t._v("~")]),
-                      e("li", [t._v("+62 cups of coffee")]),
+                      e("li", [t._v("+70 cups of coffee")]),
                       e("li", [t._v("Endless references")]),
-                      e("li", [t._v("2 easter eggs")]),
+                      e("li", [t._v("and A royal splash, lmao")]),
                     ]),
                     e(
                       "ul",
