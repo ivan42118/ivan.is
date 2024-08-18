@@ -2576,7 +2576,7 @@
                       "a",
                       {
                         attrs: {
-                          href: "https://www.bizcommerce.com.br/",
+                          href: "https://pusatdata.id/",
                           target: "_blank",
                           title: "Visit Biz Commerce's website",
                         },
@@ -2746,18 +2746,39 @@
                   attrs: {
                     cx: "14.8",
                     cy: "49.2",
-                    fill: "#FF6D00",
+                    fill: "#7a7a7a",
                     rx: "4.8",
                     ry: "4.8",
                   },
                 }),
-                e("path", {
+                e("text", {
                   staticClass: "magento-logo",
                   attrs: {
-                    fill: "#FFF",
-                    d: "M16.8 47.3l-2.6-1.2-2 2 .6 3.6.9.6-.6-3.9.9-.9.7 4.5.5.3.5-.5-.8-4.4 1.2.5.6 3.8.7-.8z",
-                  },
-                }),
+                    x: "14.8",
+                    y: "49.2",
+                    fontFamily: "Arial",
+                    fontSize: "6",
+                    textAnchor: "middle",
+                    alignmentBaseline: "middle"
+                  }
+                }, [
+                  e("tspan", {
+                    attrs: {
+                      x: "14.4",  // Adjust x to position the "P" properly
+                      dy: "2",     // Adjust dy to vertically align the "P"
+                      fill: "#04ACEC"
+                    },
+                    text: "P"
+                  }),
+                  e("tspan", {
+                    attrs: {
+                      x: "15.8",  // Adjust x to position the "d" properly
+                      dy: "0",    // Adjust dy to vertically align the "d"
+                      fill: "#FFF"
+                    },
+                    text: "d"
+                  })
+                ,
               ]),
             ]),
           ]
