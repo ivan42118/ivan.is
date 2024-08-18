@@ -2074,7 +2074,7 @@
                       [
                         e(
                           "router-link",
-                          { attrs: { to: "./about", title: "About me" } },
+                          { attrs: { to: "/about", title: "About me" } },
                           [t._v(".about()")]
                         ),
                       ],
