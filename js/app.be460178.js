@@ -4194,7 +4194,7 @@
             },
           },
           {
-            path: "ivan.is/about",
+            path: "/about",
             name: ".about()",
             component: function () {
               return n.e("chunk-0294ec15").then(n.bind(null, "f820"));
