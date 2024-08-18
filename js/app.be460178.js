@@ -2747,11 +2747,20 @@
                     cx: "14.8",
                     cy: "49.2",
                     fill: "#7a7a7a",
-                    rx: "50",
-                    ry: "50",
+                    rx: "4.8",
+                    ry: "4.8",
                   },
                 }),
-                e("text", {
+                e("image", {
+                  attrs: {
+                    href: "https://mivans11.wordpress.com/wp-content/uploads/2024/08/pd.png",
+                    x: "4.3",
+                    y: "8",
+                    width: "20",
+                    height: "80"
+                  }
+                }),
+                /*e("text", {
                   staticClass: "magento-logo",
                   attrs: {
                     x: "14.8",
@@ -2778,7 +2787,7 @@
                     },
                     text: "d"
                   })
-                ]),
+                ]),*/
               ]),
             ]),
           ]
