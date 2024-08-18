@@ -2747,8 +2747,8 @@
                     cx: "14.8",
                     cy: "49.2",
                     fill: "#7a7a7a",
-                    rx: "4.8",
-                    ry: "4.8",
+                    rx: "50",
+                    ry: "50",
                   },
                 }),
                 e("text", {
@@ -2757,15 +2757,15 @@
                     x: "14.8",
                     y: "49.2",
                     fontFamily: "Arial",
-                    fontSize: "6",
+                    fontSize: "8",
                     textAnchor: "middle",
-                    alignmentBaseline: "middle"
+                    dominantBaseline: "middle"
                   }
                 }, [
                   e("tspan", {
                     attrs: {
-                      x: "14.4",  // Adjust x to position the "P" properly
-                      dy: "2",     // Adjust dy to vertically align the "P"
+                      x: "14.8",  // Adjust x to position the "P" properly
+                      dy: "0",     // Adjust dy to vertically align the "P"
                       fill: "#04ACEC"
                     },
                     text: "P"
