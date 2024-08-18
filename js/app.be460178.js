@@ -2567,7 +2567,7 @@
               [
                 e("TextBlock", [
                   e("p", { staticClass: "-big" }, [
-                    t._v("\n        From 2011 to 2019 I was\n        "),
+                    t._v("\n        From Aug 2024 till now I was\n        "),
                     e("strong", { staticClass: "-purple" }, [
                       t._v("Head of Frontend"),
                     ]),
@@ -2578,16 +2578,16 @@
                         attrs: {
                           href: "https://pusatdata.id/",
                           target: "_blank",
-                          title: "Visit Biz Commerce's website",
+                          title: "Visit Pusatdata website",
                         },
                       },
-                      [t._v("\n          biz")]
+                      [t._v("\n          Pusatdata.id")]
                     ),
                     t._v(".\n      "),
                   ]),
                   e("p", [
                     t._v(
-                      "\n        A SaaS e-commerce platform focused on simplifying and customizing the\n        use of Magento.\n      "
+                      "\n        We are a leading IT solutions provider specializing in the installation and sales of CCTV systems, networking, computers, computer labs, PABX systems, maintenance services, and office/home needs. Our extensive client base includes private companies, government institutions, and individual customers, showcasing our expertise and commitment to delivering high-quality IT services.\n        use of Magento.\n      "
                     ),
                   ]),
                 ]),
@@ -2622,16 +2622,16 @@
               [
                 e("TextBlock", [
                   e("p", [
-                    t._v("\n        biz currently runs\n        "),
+                    t._v("\n        pusatdata.id currently manage\n        "),
                     e("span", { staticClass: "-big" }, [
                       e("span", { staticClass: "-purple" }, [
-                        t._v("+1200 stores"),
+                        t._v("over +50 Digital System Management"),
                       ]),
                       t._v(
-                        ", payment & shipping\n          integrations with\n          "
+                        ", including website development, CCTV installation,\n          computer lab setup, and system maintenance\n          "
                       ),
                       e("span", { staticClass: "-purple" }, [
-                        t._v("thousands of transactions"),
+                        t._v("for both government and large corporations."),
                       ]),
                       t._v(" daily.\n        "),
                     ]),
@@ -2670,7 +2670,7 @@
             ]),
             e("desc", { attrs: { id: "aBizDesc" } }, [
               t._v(
-                "\n    She is a cute light blue pentagon, holding the Magento logo inside an\n    orange circle\n  "
+                "\n    She is a cute light blue pentagon, holding the pusatdata logo inside an\n    orange circle\n  "
               ),
             ]),
             e("g", { staticClass: "abiz-abiz" }, [
@@ -2975,7 +2975,7 @@
                   "TitleFunction",
                   {
                     attrs: {
-                      params: "2008,2011",
+                      params: "2019,2023",
                       subtitle: "<table><tr><td>...",
                     },
                   },
@@ -2994,7 +2994,7 @@
               { attrs: { id: "early-days" } },
               [
                 e("TextBlock", [
-                  e("p", [t._v("Design & illustration.")]),
+                  e("p", [t._v("Design & Programming.")]),
                   e("p", { staticClass: "-big" }, [
                     t._v("\n        A frontend developer"),
                     e("br"),
