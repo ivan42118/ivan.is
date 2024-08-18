@@ -4173,7 +4173,7 @@
         "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
       Je = new G["a"]({
         mode: "history",
-        base: "ivan.is.github.io/",
+        base: "ivan.is/",
         routes: [
           {
             path: "/",
