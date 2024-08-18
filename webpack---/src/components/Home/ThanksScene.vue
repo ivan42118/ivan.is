@@ -1,0 +1,5 @@
+var render = function render(){var _vm=this,_c=_vm._self._c;return _c('SceneSection',{attrs:{"id":"thanks"}},[_c('TextBlock',[_c('Potion',{attrs:{"isPlaying":""}}),_c('div',{staticClass:"madeof"},[_c('p',{staticClass:"-comment"},[_vm._v("// Made with")]),_c('div',{staticClass:"cols"},[_c('ul',{staticClass:"col"},[_c('li',{staticClass:"ico"},[_vm._v("(){</>}")]),_c('li',[_vm._v("Vue 2")]),_c('li',[_vm._v("GSAP 2")]),_c('li',[_vm._v("ScrollMagic")]),_c('li',[_vm._v("Photoshop")]),_c('li',[_vm._v("Illustrator")])]),_c('ul',{staticClass:"col"},[_c('li',{staticClass:"ico"},[_vm._v("~")]),_c('li',[_vm._v("+62 cups of coffee")]),_c('li',[_vm._v("Endless references")]),_c('li',[_vm._v("2 easter eggs")])]),_c('ul',{staticClass:"col songs"},[_c('li',{staticClass:"ico"},[_c('MusicIcon')],1),_vm._l((_vm.SONGS),function(song){return _c('li',{key:song.id},[_c('a',{attrs:{"href":_vm.SPOTIFY_TRACK + song.id,"title":`Listen to ${song.label}`,"target":"_blank"}},[_vm._v(_vm._s(song.label))])])})],2)])])],1)],1)
+}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

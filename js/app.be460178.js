@@ -2180,7 +2180,7 @@
         var t = this,
           e = t._self._c;
         return e("footer", { staticClass: "footer" }, [
-          e("p", [t._v("Made with 🤍 in 2018")]),
+          e("p", [t._v("Made with love in 2024")]),
           e("p", [t._v("awwwards.winner:")]),
           e("ul", { staticClass: "awwwards" }, [
             e("li", [
@@ -2188,7 +2188,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://www.awwwards.com/sites/iuri-is",
+                    href: "https://www.udemy.com/certificate/UC-623e9078-fc80-4901-9673-6d550989fb3d/?trk=public_profile_see-credential",
                     target: "_blank",
                   },
                 },
@@ -2218,7 +2218,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://www.awwwards.com/sites/iuri-is",
+                    href: "https://www.udemy.com/certificate/UC-623e9078-fc80-4901-9673-6d550989fb3d/?trk=public_profile_see-credential",
                     target: "_blank",
                   },
                 },
@@ -2248,7 +2248,7 @@
                 "a",
                 {
                   attrs: {
-                    href: "https://www.awwwards.com/sites/iuri-is",
+                    href: "https://www.udemy.com/certificate/UC-623e9078-fc80-4901-9673-6d550989fb3d/?trk=public_profile_see-credential",
                     target: "_blank",
                   },
                 },
