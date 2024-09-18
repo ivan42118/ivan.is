@@ -1,0 +1,5 @@
+var render = function render(){var _vm=this,_c=_vm._self._c;return _c('div',{staticClass:"wrapper",attrs:{"id":"home"}},[_c('IntroScene'),_c('GapBlock'),_c('TitleSection',{attrs:{"scene":"curriculum"}},[_c('TitleFunction',{attrs:{"params":"/^.*$/gi","subtitle":"<WorkShowcase>"}},[_vm._v("myCV")])],1),_c('BizScene',{attrs:{"isPlaying":_vm.isPlaying.Biz}}),_c('GapBlock'),_c('EarlyDaysScene',{attrs:{"isPlaying":_vm.isPlaying.EarlyDays}}),_c('GapBlock'),_c('TitleSection',{attrs:{"scene":"ArtPhiGamesTitle"}},[_c('TitleFunction',{attrs:{"subtitle":"background.bmp"}},_vm._l((['Art', 'Philosophy', 'Games']),function(text){return _c('span',{key:text,staticClass:"line"},[_c('span',{staticClass:"params"},[_vm._v("${")]),_vm._v(_vm._s(text)),_c('span',{staticClass:"params"},[_vm._v("}")])])}),0)],1),_c('SuperMarioScene'),_c('GapBlock'),_c('GhibliScene',{attrs:{"isPlaying":_vm.isPlaying.Ghibli}}),_c('WrapperScene'),_c('ThanksScene',{attrs:{"isPlayng":_vm.isPlaying.Potion}})],1)
+}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

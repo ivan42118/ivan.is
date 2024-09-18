@@ -1,0 +1,23 @@
+{
+    "name": "Muhammad Ivan Setiawan - Portfolio",
+    "lang": "en-US",
+    "short_name": "ivan.is",
+    "theme_color": "#0e1212",
+    "background_color": "#0e1212",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "https://ivan42118.github.io/ivan.is/",
+    "start_url": "https://ivan42118.github.io/ivan.is/",
+    "icons": [
+      {
+        "src": "/ivan.is/img/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/ivan.is/img/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
