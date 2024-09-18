@@ -2753,7 +2753,7 @@
                 }),
                 e("image", {
                   attrs: {
-                    href: "https://ptkorintechnomic.com/wp-content/uploads/elementor/thumbs/logos-qipsftut7967ed53d16v5xv3w8os6rhv5qlgrxuwp0.jpg",
+                    href: "https://mivns.wordpress.com/wp-content/uploads/2024/09/logokorin-removebg-preview-1-1979624756-e1726664329849.png",
                     x: "4.3",
                     y: "8",
                     width: "20",
