@@ -2569,7 +2569,7 @@
                   e("p", { staticClass: "-big" }, [
                     t._v("\n        From 2024 I was\n        "),
                     e("strong", { staticClass: "-purple" }, [
-                      t._v("\n Information Technology Support Specialist"),
+                      t._v("\n Information Technology \n Support Specialist \n"),
                     ]),
                     t._v("\n        @\n        "),
                     e(
