@@ -2527,7 +2527,7 @@
               { attrs: { scene: "bizTitle" } },
               [
                 e("TitleFunction", { attrs: { params: "2024" } }, [
-                  t._v("pusatdata.id"),
+                  t._v("PT. Korin Technomic"),
                 ]),
               ],
               1
@@ -2569,25 +2569,25 @@
                   e("p", { staticClass: "-big" }, [
                     t._v("\n        From 2024 I was\n        "),
                     e("strong", { staticClass: "-purple" }, [
-                      t._v("Frontend Dev"),
+                      t._v("\n Information Technology Support Specialist"),
                     ]),
                     t._v("\n        @\n        "),
                     e(
                       "a",
                       {
                         attrs: {
-                          href: "https://pusatdata.id/",
+                          href: "https://ptkorintechnomic.com/",
                           target: "_blank",
-                          title: "Visit Pusatdata website",
+                          title: "Visit PT. Korin Technomic website",
                         },
                       },
-                      [t._v("\n          Pusatdata.id")]
+                      [t._v("\n          PT. Korin Technomic")]
                     ),
                     t._v(".\n      "),
                   ]),
                   e("p", [
                     t._v(
-                      "\n        We are a leading IT solutions provider specializing in the installation and sales of CCTV systems, networking, computers, computer labs, PABX systems, maintenance services, and office/home needs. Our extensive client base includes private companies, government institutions, and individual customers, showcasing our expertise and commitment to delivering high-quality IT services.\n      "
+                      "\n        As an IT Support Specialist at PT. Korin Technomic, I provide technical assistance to ensure the smooth operation of hardware, software, and network systems. My responsibilities include troubleshooting system issues, performing routine maintenance, installing software and hardware, and assisting users with IT-related problems. I also work closely with other departments to improve IT processes, enhance security protocols, and ensure data integrity. My role involves maintaining system documentation and providing timely support to optimize business operations.\n      "
                     ),
                   ]),
                 ]),
