@@ -2567,7 +2567,7 @@
               [
                 e("TextBlock", [
                   e("p", { staticClass: "-big" }, [
-                    t._v("\n        From 2024 I was\n        "),
+                    t._v("\n        From 2024 I was \n        "),
                     e("strong", { staticClass: "-purple" }, [
                       t._v("\n Information Technology \n Support Specialist \n"),
                     ]),
@@ -2753,7 +2753,7 @@
                 }),
                 e("image", {
                   attrs: {
-                    href: "https://mivans11.wordpress.com/wp-content/uploads/2024/08/pd.png",
+                    href: "https://ptkorintechnomic.com/wp-content/uploads/elementor/thumbs/logos-qipsftut7967ed53d16v5xv3w8os6rhv5qlgrxuwp0.jpg",
                     x: "4.3",
                     y: "8",
                     width: "20",
