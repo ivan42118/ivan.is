@@ -2568,8 +2568,11 @@
                 e("TextBlock", [
                   e("p", { staticClass: "-big" }, [
                     t._v("\n        From 2024 I was \n        "),
+                    e("br"),
                     e("strong", { staticClass: "-purple" }, [
-                      t._v("\n Information Technology \n Support Specialist \n"),
+                      t._v("\n Information Technology"),
+                      e("br"),
+                      t.v("\n Support Specialist \n"),
                     ]),
                     t._v("\n        @\n        "),
                     e(
