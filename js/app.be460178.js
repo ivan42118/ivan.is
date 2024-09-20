@@ -2601,15 +2601,15 @@
                 e("TextBlock", [
                   e("p", [
                     t._v(
-                      "\n        Throughout these years we delivered hundreds of\n        "
+                      "\n        in 2024 i established a web development service called \n        "
                     ),
                     e("span", { staticClass: "-big -purple" }, [
                       t._v(
-                        "\n          tools, modules, integrations, and custom projects\n        "
+                        "\n          Fun Web Creative\n        "
                       ),
                     ]),
                     t._v(
-                      "\n        for online stores and service providers.\n      "
+                      "\n        specializing in website creation and digital invitations.\n      "
                     ),
                   ]),
                 ]),
@@ -2622,18 +2622,18 @@
               [
                 e("TextBlock", [
                   e("p", [
-                    t._v("\n        pusatdata.id currently manage\n        "),
+                    t._v("\n       Fun Web Creative currently manage\n        "),
                     e("span", { staticClass: "-big" }, [
                       e("span", { staticClass: "-purple" }, [
-                        t._v("+50 Digital System Management"),
+                        t._v("over +50 Website Development"),
                       ]),
                       t._v(
-                        ", website development, CCTV,\n          computer lab setup, and maintenance\n          "
+                        ", Every project is crafted with modern design, \n          optimal functionality, and a focus on user experience.\n          "
                       ),
                       e("span", { staticClass: "-purple" }, [
-                        t._v("for both government and large corporations."),
+                        t._v("At Fun Web Creative, we prioritize quality, aesthetics, and client satisfaction"),
                       ]),
-                      t._v(" each month.\n        "),
+                      t._v(" in every creation.\n        "),
                     ]),
                   ]),
                 ]),
@@ -2754,9 +2754,9 @@
                 e("image", {
                   attrs: {
                     href: "https://mivns.wordpress.com/wp-content/uploads/2024/09/logokorin-removebg-preview-1-1979624756-e1726664329849.png",
-                    x: "4.3",
-                    y: "8",
-                    width: "20",
+                    x: "5",
+                    y: "9",
+                    width: "21",
                     height: "80"
                   }
                 }),
