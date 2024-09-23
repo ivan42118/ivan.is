@@ -3495,7 +3495,7 @@
         { id: "", label: "Kygo" },
         { id: "", label: "The Sigit" },
         { id: "", label: "Therapy" },
-        { id: "", label: "The Sigit" },
+        { id: "", label: "Bon Jovi" },
         { id: "", label: "Queen" },
       ],
       Te = {
