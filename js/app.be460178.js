@@ -3493,7 +3493,7 @@
         { id: "", label: "A7X" },
         { id: "", label: "Believer" },
         { id: "", label: "Kygo" },
-        { id: "", label: "The Sigit" },
+        { id: "", label: "Bring Me The Horizon" },
         { id: "", label: "Therapy" },
         { id: "", label: "Bon Jovi" },
         { id: "", label: "Queen" },
